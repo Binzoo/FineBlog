@@ -38,18 +38,18 @@ public class DbInitializer : IDbInitializer
             }
 
             List<Page> pages = new List<Page>(){
-                 new Page{
+                new Page{
                     Title = "About us",
                     Slug = "about"
-                 },
-                 new Page{
+                },
+                new Page{
                     Title = "Contact us",
                     Slug = "contact"
-                 },
-                 new Page{
+                },
+                new Page{
                     Title = "Privacy Policy",
                     Slug = "privacy"
-                 }
+                }
             };
 
             _context.Pages.AddRange(pages);

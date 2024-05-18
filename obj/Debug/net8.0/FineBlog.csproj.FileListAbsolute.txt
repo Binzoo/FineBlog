@@ -147,3 +147,4 @@
 /Users/binamrathapa/Desktop/dotnet/FineBlog/FineBlog/obj/Debug/net8.0/FineBlog.csproj.AssemblyReference.cache
 /Users/binamrathapa/Desktop/dotnet/FineBlog/FineBlog/obj/Debug/net8.0/FineBlog.MvcApplicationPartsAssemblyInfo.cs
 /Users/binamrathapa/Desktop/dotnet/FineBlog/FineBlog/obj/Debug/net8.0/FineBlog.csproj.Up2Date
+/Users/binamrathapa/Desktop/dotnet/FineBlog/FineBlog/obj/Debug/net8.0/scopedcss/Areas/Admin/Views/Shared/_Layout.cshtml.rz.scp.css
